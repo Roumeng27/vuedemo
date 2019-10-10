@@ -1,0 +1,48 @@
+/* 弹框头部颜色 */
+.el-dialog__header{
+    background: #545c64 !important;
+    padding: 10px 20px 10px;
+}
+/* 弹框字体颜色 */
+.el-dialog__title{
+    color:#fff;
+}
+/* 弹框关闭按钮颜色 */
+.el-dialog__headerbtn .el-dialog__close{
+    color: #fff;
+    font-weight: 800;
+}
+/* 弹框头部高度 */
+.el-dialog__headerbtn{
+    top: 15px;
+}
+/* 表格内字体大小 */
+.el-table{
+    font-size: 12px;
+}
+/* form表单label字体大小 */
+.el-form-item__label{
+font-size: 12px;
+}
+/* json数据样式 */
+.string {
+    color: #000000;
+  }
+  .number {
+    color: #188a29;
+  }
+  .boolean {
+    color: blue;
+  }
+  .null {
+    color: magenta;
+  }
+  .key {
+    color: red;
+  }
+  
+  pre {
+    outline: 1px solid #ccc;
+    padding: 5px;
+    margin: 5px;
+  }

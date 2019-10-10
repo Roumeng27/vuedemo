@@ -1,0 +1,205 @@
+[
+    {
+        "name": "数据概况",
+        "path": "/home/dataStatus",
+        "icon": "fa fa-home fa-fw",
+        "id": 1,
+        "pid": 0
+    },
+    {
+        "name": "风险管控",
+        "path": "/carList",
+        "icon": "fa fa-bell fa-fw",
+        "id": 2,
+        "pid": 0
+    },
+    {
+        "name": "报警查询",
+        "path": "/home/alarmTable",
+        "icon": "",
+        "pid": 2,
+        "id": 30
+    },
+    {
+        "name": "报警资料",
+        "path": "/home/sdvideo",
+        "icon": "",
+        "pid": 2,
+        "id": 31
+    },
+    {
+        "name": "位置跟踪",
+        "path": "/home/rvscan",
+        "icon": "fa fa-car fa-fw",
+        "id": 3,
+        "pid": 0
+    },
+    {
+        "name": "监控中心",
+        "path": "/home/rtc",
+        "icon": "fa fa-flag",
+        "pid": 3,
+        "id": 41
+    },
+    {
+        "name": "实时视频",
+        "path": "/home/realVideo",
+        "icon": "",
+        "pid": 3,
+        "id": 42
+    },
+    {
+        "name": "历史回放",
+        "path": "/home/hisPlayback",
+        "icon": "",
+        "pid": 3,
+        "id": 43
+    },
+    {
+        "name": "抓拍查询",
+        "path": "/home/snapshot",
+        "icon": "",
+        "pid": 3,
+        "id": 44
+    },
+    {
+        "name": "轨迹回放",
+        "path": "/home/travelList",
+        "icon": "fa fa-map-marker fa-fw",
+        "id": 4,
+        "pid": 0
+    },
+    {
+        "name": "行程查询",
+        "path": "/home/travelList",
+        "icon": "fa fa-map-marker fa-fw",
+        "id": 51,
+        "pid": 4
+    },
+    {
+        "name": "历史轨迹",
+        "path": "/home/guijiList",
+        "icon": "fa fa-map-marker fa-fw",
+        "id": 52,
+        "pid": 4
+    },
+    {
+        "name": "数据分析",
+        "path": "/home/shortcutAnalysis",
+        "icon": "fa fa-bar-chart fa-fw",
+        "id": 5,
+        "pid": 0
+    },
+    {
+        "name": "运营规则",
+        "path": "/business",
+        "icon": "fa fa-list-alt",
+        "id": 6,
+        "pid": 0
+    },
+    {
+        "name": "围栏管理",
+        "path": "/home/electronicfence",
+        "icon": "fa fa-bar-chart fa-fw",
+        "id": 71,
+        "pid": 6
+    },
+    {
+        "name": "线路管理",
+        "path": "/home/linset",
+        "icon": "fa fa-bar-chart fa-fw",
+        "id": 72,
+        "pid": 6
+    },
+    {
+        "name": "信息管理",
+        "path": "/system",
+        "icon": "fa fa-address-book-o",
+        "id": 7,
+        "pid": 0
+    },
+    {
+        "name": "机构管理",
+        "path": "/home/organization",
+        "icon": "fa fa-film",
+        "id": 81,
+        "pid": 7
+    },
+    {
+        "name": "账号管理",
+        "path": "/home/account",
+        "icon": "fa fa-film",
+        "id": 82,
+        "pid": 7
+    },
+    {
+        "name": "SIM卡管理",
+        "path": "/home/SIMclip",
+        "icon": "fa fa-film",
+        "id": 83,
+        "pid": 7
+    },
+    {
+        "name": "设备管理",
+        "path": "/home/equipment",
+        "icon": "fa fa-film",
+        "id": 84,
+        "pid": 7
+    },
+    {
+        "name": "车辆管理",
+        "path": "/home/vehiclemanagement",
+        "icon": "fa fa-address-book-o",
+        "id": 85,
+        "pid": 7
+    },
+    {
+        "name": "二代车辆",
+        "path": "/home/erdai",
+        "icon": "fa fa-address-book-o",
+        "id": 86,
+        "pid": 7
+    },
+    {
+        "name": "司机管理",
+        "path": "/home/drivermanage",
+        "icon": "fa fa-address-book-o",
+        "id": 87,
+        "pid": 7
+    },
+    {
+        "name": "系统管理",
+        "path": "/home/system",
+        "icon": "fa fa-th-large",
+        "id": 8,
+        "pid": 0
+    },
+    {
+        "name": "报警设置",
+        "path": "/home/alarmSet",
+        "icon": "fa fa-address-book-o",
+        "id": 91,
+        "pid": 8
+    },
+    {
+        "name": "模板管理",
+        "path": "/home/template",
+        "icon": "fa fa-address-book-o",
+        "id": 92,
+        "pid": 8
+    },
+    {
+        "name": "终端管理",
+        "path": "/home/terminal",
+        "icon": "fa fa-list-alt",
+        "id": 93,
+        "pid": 8
+    },
+    {
+        "name": "平台日志",
+        "path": "/home/caronlinelog",
+        "icon": "fa fa-list-alt",
+        "id": 94,
+        "pid": 8
+    }
+]
